@@ -1,8 +1,9 @@
 # Polittan
 
-Polittan is a project dedicated to [insert brief project goals or functionalities here]. This repository contains the source code and documentation for the Polittan project.
+# TransferBooking API
+API REST para una plataforma de reservas de traslados, desarrollada como prueba técnica para el cargo de Desarrollador Backend .NET Senior.
 
-## Features
+## Tecnologías utilizadas
 - [Feature 1]
 - [Feature 2]
 - [Feature 3]
