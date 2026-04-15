@@ -12,32 +12,7 @@ API REST para una plataforma de reservas de traslados, desarrollada como prueba 
 
 # Estructura del proyecto
 
-TransferBooking/
-├── src/
-│   ├── TransferBooking.API/              # Controladores y configuración
-│   │   ├── Controllers/
-│   │   │   └── ReservationsController.cs
-│   │   └── Program.cs
-│   ├── TransferBooking.Application/      # Lógica de negocio
-│   │   ├── DTOs/
-│   │   │   ├── CreateReservationRequest.cs
-│   │   │   └── ReservationResponse.cs
-│   │   ├── Services/
-│   │   │   ├── ReservationService.cs
-│   │   │   └── PricingService.cs
-│   │   └── Validators/
-│   │       └── ReservationValidator.cs
-│   ├── TransferBooking.Domain/           # Entidades e interfaces
-│   │   ├── Entities/
-│   │   │   └── Reservation.cs
-│   │   ├── Enums/
-│   │   │   ├── ReservationStatus.cs
-│   │   │   └── ServiceType.cs
-│   │   └── Interfaces/
-│   │       └── IReservationRepository.cs
-│   └── TransferBooking.Infrastructure/   # Repositorio en memoria
-│       └── Repositories/
-│           └── InMemoryReservationRepository.cs
+<img width="778" height="660" alt="image" src="https://github.com/user-attachments/assets/1f8338ad-f7dc-41b9-98b0-01a28b760d63" />
 
 # Instrucciones para ejecutar
 
