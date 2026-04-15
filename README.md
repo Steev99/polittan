@@ -103,4 +103,13 @@ POST /Reservations
 - Fechas en UTC: CreatedAt se almacena en UTC. La fecha de la reserva se toma tal como la envía el cliente.
 - ServiceType como string en el request: Se recibe como string para facilitar el consumo desde el cliente y se parsea internamente al enum.
 
-
+# Mejoras futuras
+- Base de datos real: Integrar Entity Framework Core con SQL Server o PostgreSQL para persistencia real.
+- Autenticación y autorización: Implementar JWT para proteger los endpoints.
+- Paginación: Agregar paginación al endpoint GET /Reservations para manejar grandes volúmenes.
+- Geocodificación: Integrar una API como Google Maps para validar ciudad de origen y destino por coordenadas, en lugar de una lista estática.
+- Pruebas unitarias: Agregar cobertura de tests para PricingService, ReservationValidator y ReservationService.
+- Logs estructurados: Implementar Serilog para trazabilidad de operaciones.
+- Manejo global de errores: Agregar un middleware de excepciones para respuestas de error consistentes.
+- Cancelación con motivo: Permitir enviar un motivo al cancelar una reserva.
+- Notificaciones: Enviar email o SMS al confirmar/cancelar una reserva.
