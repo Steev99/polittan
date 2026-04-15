@@ -12,7 +12,8 @@ API REST para una plataforma de reservas de traslados, desarrollada como prueba 
 
 # Estructura del proyecto
 
-<img width="778" height="660" alt="image" src="https://github.com/user-attachments/assets/1f8338ad-f7dc-41b9-98b0-01a28b760d63" />
+<img width="898" height="637" alt="image" src="https://github.com/user-attachments/assets/ab0d9416-f2ea-4d0a-9cbe-8f4575dbf3b5" />
+
 
 # Instrucciones para ejecutar
 
