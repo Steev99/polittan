@@ -31,11 +31,11 @@ dotnet run
 # Endpoints disponibles
 
 ## Método             Ruta                                 Descripción
-   POST               /Reservations                        Crear una nueva reserva
-   GET                /Reservations                        Obtener todas las reservas
-   GET                /Reservations/{id}                   Obtener una reserva por ID
-   PATCH              /Reservations/{id}/confirm           Confirmar una reserva
-   PATCH              /Reservations/{id}/cancel            Cancelar una reserva
+   POST               /Reservations                        Crear una nueva reserva,
+   GET                /Reservations                        Obtener todas las reservas,
+   GET                /Reservations/{id}                   Obtener una reserva por ID,
+   PATCH              /Reservations/{id}/confirm           Confirmar una reserva,
+   PATCH              /Reservations/{id}/cancel            Cancelar una reserva,
 
 
 # Ejemplo de uso
