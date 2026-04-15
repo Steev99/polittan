@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TransferBooking.API/TransferBooking.API.csproj" />
+  <Project Path="TransferBooking.Application/TransferBooking.Application.csproj" />
+  <Project Path="TransferBooking.Domain/TransferBooking.Domain.csproj" />
+  <Project Path="TransferBooking.Infrastructure/TransferBooking.Infrastructure.csproj" />
+</Solution>
