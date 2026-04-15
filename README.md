@@ -1,4 +1,4 @@
-#                                                       Polittan
+#                                                       POLITTAN
 
 # TransferBooking API
 API REST para una plataforma de reservas de traslados, desarrollada como prueba técnica para el cargo de Desarrollador Backend .NET Senior.
